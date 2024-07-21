@@ -31,6 +31,7 @@ function App() {
     }
     else{
       setmode(" ")
+      setbgc(null) 
       setstyle1({
         color:'black',
         backgroundColor:'white',
